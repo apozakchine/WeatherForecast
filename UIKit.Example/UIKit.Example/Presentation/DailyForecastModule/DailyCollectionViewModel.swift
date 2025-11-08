@@ -1,6 +1,6 @@
 //
 //  DailyCollectionViewModel.swift
-//  Weather Forecast
+//  WeatherForecast.UIKitExample
 //
 //  Created by Alexander Pozakshin on 07.11.2025.
 //

@@ -1,6 +1,6 @@
 //
 //  UITableView.swift
-//  Weather Forecast
+//  WeatherForecast.UIKitExample
 //
 //  Created by Alexander Pozakshin on 02.11.2025.
 //

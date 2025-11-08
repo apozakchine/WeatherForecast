@@ -1,6 +1,6 @@
 //
 //  Weather.swift
-//  Weather Forecast
+//  WeatherForecast.UIKitExample
 //
 //  Created by Alexander Pozakshin on 30.10.2025.
 //

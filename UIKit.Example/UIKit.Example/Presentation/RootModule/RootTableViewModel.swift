@@ -1,6 +1,6 @@
 //
 //  RootTableViewModel.swift
-//  Weather Forecast
+//  WeatherForecast.UIKitExample
 //
 //  Created by Alexander Pozakshin on 03.11.2025.
 //
