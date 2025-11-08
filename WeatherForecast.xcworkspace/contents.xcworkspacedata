@@ -4,7 +4,4 @@
    <FileRef
       location = "group:UIKit.Example/UIKit.Example.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "absolute:/Users/alexanderpozakshin/Documents/Xcode/Study/Weather Forecast/WeatherForecast.xcodeproj">
-   </FileRef>
 </Workspace>
