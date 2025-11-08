@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:SwiftUI.Example/SwiftUI.Example.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:UIKit.Example/UIKit.Example.xcodeproj">
    </FileRef>
 </Workspace>
