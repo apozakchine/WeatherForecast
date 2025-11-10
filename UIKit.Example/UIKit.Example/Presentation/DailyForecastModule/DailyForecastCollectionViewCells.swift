@@ -396,7 +396,7 @@ struct DailyForecastCollectionViewCells {
         }()
 
         private lazy var temperatureParameter: ParameterView = {
-            let instance = ParameterView(keyPath: \.temperature, measureDescription: "%")
+            let instance = ParameterView(keyPath: \.temperature, measureDescription: "º")
             instance.translatesAutoresizingMaskIntoConstraints = false
             instance.imageView.image = .init(systemName: "thermometer.variable")
             return instance
